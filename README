@@ -2,5 +2,5 @@ SimpleGit Ruby Library
 ======================
 
 This library calls git commands and returns the output.
-This change is being done in testing branch. 
+This change is being done in the new testing branch. 
 Author : Scott Chacon
